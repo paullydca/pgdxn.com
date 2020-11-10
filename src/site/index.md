@@ -1,6 +1,6 @@
 ---
-title: Leslie Cohn-Wein builds stuff
-subtitle: Staff Frontend Engineer at <a href="http://www.netlify.com" target="_blank" rel="noopener nofollow">Netlify</a> working remote from Dallas.<br />Former agency dev at <a href="http://canvasunited.com" target="_blank" rel="noopener nofollow">Canvas United</a> and IBM IX in NYC.<br/>Pronounced CONE🍦-wine🍷. She/her.
+title: pgdxn
+subtitle: Gentleman of Adventure at <a href="https://www.beyondthepx.com" target="_blank" rel="noopener nofollow">Beyond the Pixel</a>. Has been helping brands stand out above the waves in a sea of ordinary for many years. 
 layout: layouts/home.njk
 ---
 
