@@ -36,7 +36,7 @@ body {
   border-bottom: 6px solid $accent-color;
   color: mix($text-color, $page-color, 90%);
   font-family: 'Poppins', sans-serif;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 300;
   line-height: 1.8;
   min-height: 100vh;
@@ -92,7 +92,7 @@ body {
 .skewed {
   /* background-image: linear-gradient(to bottom, #FFC0AE 0%, #fadac6 100%); */
   background-attachment: fixed;
-  background-image: linear-gradient(to bottom, #FFC0AE 0%, #fffaf7 100%);
+  background-image: linear-gradient(to bottom, #54b348 0%, #fffaf7 100%);
   border-bottom: 1px solid rgba(56, 56, 56, 0.1);
   bottom: 0;
   height: 100%;
